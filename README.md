@@ -60,3 +60,7 @@ docs/       Decision Log, ERD, API Spec
 | SA | Auth, Wallet, Payment, Escrow, ERD, API Spec |
 | QA | ลงสินค้า, อนุมัติสินค้า, Dispute, บทลงโทษ, จัดการผู้ใช้, Test Plan |
 | Programmer | Auction Engine, หน้าแรก, ค้นหา, รายละเอียดสินค้า, Watchlist |
+
+
+
+
